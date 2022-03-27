@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c822e103-5185-d25b-9195-e2e74a6282d2
 resourcetype: Document
 title: '17.581S13 Riots, Rebellions, Revolutions: Quiz'
 uid: f933e7be-1266-0cc3-f69a-30705458d60f

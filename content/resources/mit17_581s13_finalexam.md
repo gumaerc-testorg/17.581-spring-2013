@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c822e103-5185-d25b-9195-e2e74a6282d2
 resourcetype: Document
 title: '17.581S13 Riots, Rebellions, Revolutions: Final Exam'
 uid: d7753287-0cd6-df5e-4000-6608ef443cd4
