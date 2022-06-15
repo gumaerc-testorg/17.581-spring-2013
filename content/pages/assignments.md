@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the four graded assignments of the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,4 +20,4 @@ There are four graded assignments.
 
 For more information on agent-based models, go to the [PS-I Agent-Based Simulation Toolkit](http://www.polisci.upenn.edu/ps-i/index.html) website.
 
-For more information on the in-class quiz and the final exam, go to the [Exams]({{< baseurl >}}/pages/exams) section.
+For more information on the in-class quiz and the final exam, go to the {{% resource_link c822e103-5185-d25b-9195-e2e74a6282d2 "Exams" %}} section.

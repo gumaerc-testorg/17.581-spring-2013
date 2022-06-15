@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, grading policy, and required books.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -98,4 +100,4 @@ McAdam, Doug, Sidney Tarrow, and Charles Tilly. _Dynamics of Contention_. Cambri
 
 Skocpol, Theda. _States & Social Revolutions: A Comparative Analysis of French, Russia, & China_. Cambridge University Press, 1979. ISBN: 9780521294997. \[Preview with [Google Books](http://books.google.com/books?id=so0gddc0w3UC&printsec=frontcover)\]
 
-Additional readings come from a variety of sources and are detailed in the [Readings]({{< baseurl >}}/pages/readings) section.
+Additional readings come from a variety of sources and are detailed in the {{% resource_link d1c3c4c3-b518-4e6f-fce9-59d80c722751 "Readings" %}} section.

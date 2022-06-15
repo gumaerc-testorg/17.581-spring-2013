@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the in-class quiz, the final exam, and related
+  readings.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: c822e103-5185-d25b-9195-e2e74a6282d2
 Quiz
 ----
 
-The [in-class quiz (PDF)]({{< baseurl >}}/resources/mit17_581s13_quiz) accounts for 15% of the course grade.
+The {{% resource_link f933e7be-1266-0cc3-f69a-30705458d60f "in-class quiz (PDF)" %}} accounts for 15% of the course grade.
 
 Final Exam
 ----------
@@ -19,7 +21,7 @@ The final exam will simply require application of the course methods to a specif
 
 In special circumstances, students may arrange to write a research paper to substitute for the final exam.
 
-The [final exam (PDF)]({{< baseurl >}}/resources/mit17_581s13_finalexam) accounts for 35% of the course grade.
+The {{% resource_link d7753287-0cd6-df5e-4000-6608ef443cd4 "final exam (PDF)" %}} accounts for 35% of the course grade.
 
 ### Related Readings
 
