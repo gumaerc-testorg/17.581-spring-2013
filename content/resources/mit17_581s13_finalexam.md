@@ -5,6 +5,7 @@ file: /courses/17-581-riots-rebellions-revolutions-spring-2013/d77532870cd6df5e4
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '17.581S13 Riots, Rebellions, Revolutions: Final Exam'
 uid: d7753287-0cd6-df5e-4000-6608ef443cd4
 ---
 This file contains information regarding final exam.
-
