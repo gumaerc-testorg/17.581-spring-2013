@@ -92,12 +92,12 @@ Required Books
 
 The books listed below are required reading for this course.
 
-Elster, Jon. _Explaining Social Behavior: More Nuts and Bolts for the Social Sciences_. Cambridge University Press, 2007. ISBN: 9780521777445. \[Preview with [Google Books](http://books.google.com/books?id=AjnRGYuCbU8C&printsec=frontcover)\]
+Elster, Jon. _Explaining Social Behavior: More Nuts and Bolts for the Social Sciences_. Cambridge University Press, 2007. ISBN: 9780521777445. \[Preview with {{% resource_link "5cec5df5-5999-4968-be8a-d2b540f7794f" "Google Books" %}}\]
 
-Judah, Tim. _Kosovo: What Everyone Needs to Know_. Oxford University Press, 2008. ISBN: 9780195373455. \[Preview with [Google Books](http://books.google.com/books?id=ohz2WtWRapAC&printsec=frontcover)\]
+Judah, Tim. _Kosovo: What Everyone Needs to Know_. Oxford University Press, 2008. ISBN: 9780195373455. \[Preview with {{% resource_link "724c0a9b-fb3c-4e8f-a935-a5126f9f0a4d" "Google Books" %}}\]
 
-McAdam, Doug, Sidney Tarrow, and Charles Tilly. _Dynamics of Contention_. Cambridge University Press, 2001. ISBN: 9780521011877. \[Preview with [Google Books](http://books.google.com/books?id=02x7T96LIMcC&printsec=frontcover)\]
+McAdam, Doug, Sidney Tarrow, and Charles Tilly. _Dynamics of Contention_. Cambridge University Press, 2001. ISBN: 9780521011877. \[Preview with {{% resource_link "febe7b12-d049-416f-8200-5c271764800d" "Google Books" %}}\]
 
-Skocpol, Theda. _States & Social Revolutions: A Comparative Analysis of French, Russia, & China_. Cambridge University Press, 1979. ISBN: 9780521294997. \[Preview with [Google Books](http://books.google.com/books?id=so0gddc0w3UC&printsec=frontcover)\]
+Skocpol, Theda. _States & Social Revolutions: A Comparative Analysis of French, Russia, & China_. Cambridge University Press, 1979. ISBN: 9780521294997. \[Preview with {{% resource_link "203f13b9-4655-43e6-9f99-11dbb317dffa" "Google Books" %}}\]
 
 Additional readings come from a variety of sources and are detailed in the {{% resource_link d1c3c4c3-b518-4e6f-fce9-59d80c722751 "Readings" %}} section.
