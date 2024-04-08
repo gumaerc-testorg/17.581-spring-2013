@@ -15,9 +15,9 @@ There are four graded assignments.
 
 *   In-class quiz
 *   In-class presentation of an agent-based modeling exercise
-*   In-class presentation of a comparative analysis of some aspect of the [Arab Spring](http://en.wikipedia.org/wiki/Arab_spring).
+*   In-class presentation of a comparative analysis of some aspect of the {{% resource_link "7209ed07-602a-4c30-a9c8-86ebcb56f5c3" "Arab Spring" %}}.
 *   Final exam
 
-For more information on agent-based models, go to the [PS-I Agent-Based Simulation Toolkit](http://www.polisci.upenn.edu/ps-i/index.html) website.
+For more information on agent-based models, go to the {{% resource_link "b69098f1-e2f4-4159-b810-938271e098fe" "PS-I Agent-Based Simulation Toolkit" %}} website.
 
 For more information on the in-class quiz and the final exam, go to the {{% resource_link c822e103-5185-d25b-9195-e2e74a6282d2 "Exams" %}} section.
