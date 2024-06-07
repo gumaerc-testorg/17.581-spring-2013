@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding final exam.
 file: /courses/17-581-riots-rebellions-revolutions-spring-2013/d77532870cd6df5e40006608ef443cd4_MIT17_581S13_FinalExam.pdf
+file_size: 170476
 file_type: application/pdf
 learning_resource_types:
 - Exams
