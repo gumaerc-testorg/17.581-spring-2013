@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding quiz.
 file: /courses/17-581-riots-rebellions-revolutions-spring-2013/f933e7be12660cc3f69a30705458d60f_MIT17_581S13_Quiz.pdf
+file_size: 419348
 file_type: application/pdf
 learning_resource_types:
 - Exams
