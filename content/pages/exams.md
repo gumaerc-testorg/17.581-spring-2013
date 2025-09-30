@@ -27,8 +27,8 @@ The {{% resource_link d7753287-0cd6-df5e-4000-6608ef443cd4 "final exam (PDF)" %}
 
 The readings below are referenced in the final exam.
 
-Finn, Tom. "[Tawakkul Karman - profile](http://www.theguardian.com/world/2011/oct/07/tawakkul-karman-profile)." _The Guardian_, October 7, 2011.
+Finn, Tom. "{{% resource_link "ba2abb2d-0365-4d86-8ab6-1bd78e93a53a" "Tawakkul Karman - profile" %}}." _The Guardian_, October 7, 2011.
 
 Mahfud, Gada. "Opinion: The Arab Awakening & Social Media." _Libya Herald_, March 5, 2012.
 
-Also, see Section 3.1 _Summary of conflicts by country_, and Section 4 _Major events_, on the [Arab Spring](http://en.wikipedia.org/wiki/Arab_Spring) page at Wikipedia.org.
+Also, see Section 3.1 _Summary of conflicts by country_, and Section 4 _Major events_, on the {{% resource_link "3c1eec0d-3a28-4837-84ce-1c95de602612" "Arab Spring" %}} page at Wikipedia.org.
